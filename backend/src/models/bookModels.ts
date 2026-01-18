@@ -1,6 +1,4 @@
 import mongoose from "mongoose";
-import { timeStamp } from "node:console";
-import { title } from "node:process";
 
 const bookSchema = new mongoose.Schema(
     {
